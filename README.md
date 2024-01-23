@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/marco-moya/social-links-profile)
-- Live Site URL: [GitHub Pages](https://marco-moya.github.io/social-links-profile)
+- Solution URL: [GitHub](https://github.com/marco-moya/Social-links-profile)
+- Live Site URL: [GitHub Pages](https://marco-moya.github.io/Social-links-profile)
 
 ## My process
 
